@@ -1,0 +1,13 @@
+
+pwd : present working directory ( current location)
+ls  : list file and folder ( in current location what are the file present)
+mkdir  : to create a folder
+rmdir : remove directory  ( only empty folder is deleted)
+cd  : change directory (to change location)
+touch  : to create a file ( empty file)
+rm : to remove file and folder (by default only file)
+
+	rm   -r   ( folder & folder ke andar ka content)
+
+	rm   -rv   ( folder & folder
+		ke andar ka content with description delt)
